@@ -1,6 +1,6 @@
 numpy 
 scipy
-tensorflow
+scikit-learn
 matplotlib
 seaborn
 pandas
