@@ -3,5 +3,6 @@
 
 ## Datasets:
 
-[Deputies dataset](https://www.kaggle.com/datasets/epattaro/brazils-house-of-deputies-reimbursements)
+[Well log dataset](https://zenodo.org/records/4351156)
+
 [Brasileirão dataset](https://www.kaggle.com/datasets/rodrigobrust/brazil-soccer-teams-statistics-20142020)
